@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "song.js",
+  "sourceRoot": "",
+  "sources": [
+    "song.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,4BAAA;;AAAA,EAAA,QAAA,GAAW,OAAA,CAAQ,UAAR,CAAX,CAAA;;AAAA,EACA,MAAA,GAAS,QAAQ,CAAC,MADlB,CAAA;;AAAA,EAGA,UAAA,GAAiB,IAAA,MAAA,CACf;AAAA,IAAA,IAAA,EAAM,MAAN;GADe,CAHjB,CAAA;;AAAA,EAMA,MAAM,CAAC,OAAP,GAAiB,QAAQ,CAAC,KAAT,CAAe,MAAf,EAAuB,UAAvB,CANjB,CAAA;AAAA"
+}
